@@ -1,0 +1,13 @@
+name: anam_vis
+dependencies:
+ - python=3
+ - jupyter
+ - pandas
+ - matplotlib
+ - basemap
+ - numpy
+ - shapely
+ - pip:
+   - squarify
+   - windrose
+   - pyshp
